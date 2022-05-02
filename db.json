@@ -1,0 +1,56 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Fourth Article",
+      "content": "You are not even paying attention!",
+      "id": 4
+    },
+    {
+      "title": "Fifth Article",
+      "content": "How come I end up where I started?",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Thom",
+      "userName": "modernboxes",
+      "id": 1
+    },
+    {
+      "name": "Jonny",
+      "userName": "octatonic",
+      "id": 2
+    },
+    {
+      "name": "Ed",
+      "userName": "EOB",
+      "id": 3
+    },
+    {
+      "name": "Colin",
+      "userName": "theothergreenwood",
+      "id": 4
+    },
+    {
+      "name": "",
+      "userName": "thedrummer",
+      "id": 5
+    }
+  ]
+}
